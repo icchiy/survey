@@ -1,0 +1,30 @@
+
+.contents{
+	text-align:left;
+
+}
+
+td {
+	 background-color :#ffffff;
+
+}
+
+td,th {
+	border: 1px #000000 solid;
+	padding: 5px 20px;
+}
+
+.td1{
+background: #f8f8ff
+}
+
+li {
+	list-style-type:none;
+}
+
+.namename{
+	border-style: solid 1px #000080;
+	font-size: 20px;
+}
+
+
